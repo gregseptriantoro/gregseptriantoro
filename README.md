@@ -1,7 +1,7 @@
 ## Hi there, I'm Greg 👋
 
-* 🛠️ **Currently expanding capabilities into:** Automated testing frameworks using **Python** and **Playwright** to drive QA efficiency and modern CI/CD integration[cite: 1].
-* 💼 **Open to:** QA Engineering, Release Engineering, or Application Support opportunities[cite: 1].
+* 🛠️ **Currently expanding capabilities into:** Automated testing frameworks using **Python** and **Playwright** to drive QA efficiency and modern CI/CD integration.
+* 💼 **Open to:** QA Engineering, Release Engineering, or Application Support opportunities.
   
 <!--
 **gregseptriantoro/gregseptriantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
