@@ -1,6 +1,6 @@
 ## Hi there, I'm Greg 👋
 
-* 🛠️ **Currently expanding capabilities into:** Automated testing frameworks using **Python** and **Playwright** to drive QA efficiency and modern CI/CD integration.
+* 🛠️ **Currently expanding capabilities into:** Automated testing frameworks using **Cypress**, **Python** and **Playwright** to drive QA efficiency and modern CI/CD integration.
 * 💼 **Open to:** QA Engineering, Release Engineering, or Application Support opportunities.
   
 <!--
